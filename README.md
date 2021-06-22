@@ -10,6 +10,6 @@ The data for this task was provided by the Teacher and you find the data here, i
 Some of the plots achieved during the tasks. You can checkout here.
 
 #### Tools
-..*Database: MyWorkbench - Link to SQL folder
-..*Vizualizations: Tableau / seaborn / matplotlib
-..*Code: Jupyter Notebook - Link to code folder
+• Database: MySQL - Link to SQL folder<br/>
+• Vizualizations: Tableau / seaborn / matplotlib<br/>
+• Code: Jupyter Notebook - Link to code folder<br/>
